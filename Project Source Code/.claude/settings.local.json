@@ -1,9 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(taskkill /F /IM McpServer.exe)",
-      "Bash(tasklist)",
-      "Bash(taskkill *)"
-    ]
-  }
-}
